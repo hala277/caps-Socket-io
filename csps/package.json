@@ -1,0 +1,25 @@
+{
+  "name": "caps-socket-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hala277/caps-Socket-io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hala277/caps-Socket-io/issues"
+  },
+  "homepage": "https://github.com/hala277/caps-Socket-io#readme",
+  "dependencies": {
+    "@faker-js/faker": "^6.0.0",
+    "socket.io": "^4.4.1"
+  }
+}
