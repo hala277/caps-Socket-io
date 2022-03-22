@@ -27,5 +27,5 @@
 
 ![caps uml](./img/capsuml.jpg)
 
-+ [pull req]()
-+ [actions]()
++ [pull req](https://github.com/hala277/caps-Socket-io/pull/1)
++ [actions](https://github.com/hala277/caps-Socket-io/actions)
